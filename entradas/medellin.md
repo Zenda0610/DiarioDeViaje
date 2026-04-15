@@ -3,6 +3,9 @@
 ## Descripcion
 Medellín, capital de Antioquia y segunda ciudad de Colombia, es conocida como la "Ciudad de la Eterna Primavera" por su clima agradable 
 
+## Recomendaciòn
+Visitar Viva Envigado, el centro comercial mas grande de Colombia
+
 ## Foto
 ![Foto de Medellin](ImagenMedellin.png)
 
