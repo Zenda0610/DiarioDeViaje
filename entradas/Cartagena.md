@@ -5,3 +5,6 @@ Cartagena de Indias, conocida como "La Heroica" y Patrimonio de la Humanidad por
 
 ## Recomendaciòn
 Imprescindible recorrer la Ciudad Amurallada (Patrimonio UNESCO), el Castillo de San Felipe, el barrio bohemio de Getsemaní y hacer una excursión a las Islas del Rosario
+
+## Foto
+![Foto de Cartagena](ImagenCartagena.png)
