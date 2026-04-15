@@ -5,3 +5,6 @@ Valledupar, conocida como la "Capital Mundial del Vallenato", es una ciudad colo
 
 ## Recomendaciòn 
 Visita el río Guatapurí, la Plaza Alfonso López, y el Museo del Acordeón.
+
+## Foto
+![Valledupar Foto](ValleduparImagen.png)
